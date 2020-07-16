@@ -1,1 +1,1 @@
-# elasticsearch-cassandra-test
+# Elasticsearch / Cassandra test environment on Docker
