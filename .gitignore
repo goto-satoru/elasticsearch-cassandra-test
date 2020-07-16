@@ -1,0 +1,6 @@
+nohup
+*~
+*.zip
+*.tgz
+*.tar.gz
+out/
