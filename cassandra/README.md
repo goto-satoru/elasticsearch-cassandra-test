@@ -34,7 +34,7 @@ $ cqlsh -u cassandra -p cassandra -e "select * from test.test_table;"
 # AppDynamics machine agent Cassandra monitoring extension config
 
 ```
-	### ANY CHANGES TO THIS FILE DOES NOT REQUIRE A RESTART ###
+### ANY CHANGES TO THIS FILE DOES NOT REQUIRE A RESTART ###
 #This will create this metric in all the tiers, under this path
 metricPrefix: Custom Metrics|Cassandra
 
